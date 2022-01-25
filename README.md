@@ -25,7 +25,7 @@ Sailing the seas depends on the helmsman.
 | url | varchar | 255 | True |
 | create_time | datetime |  | True |
 
-半成品链接：[42.192.91.165]http://42.192.91.165
+半成品链接：[42.192.91.165](http://42.192.91.165)
 
 Helping Chinese people find great information from China network more easier,instead of ruined by shit mountains that you can see in everywhere.  
 
